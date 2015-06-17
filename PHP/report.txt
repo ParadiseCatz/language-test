@@ -1,0 +1,9 @@
+time:0.043
+time-wall:0.202
+max-rss:44060
+csw-voluntary:6
+csw-forced:4
+cg-mem:142080
+exitcode:255
+status:RE
+message:Exited with error status 255

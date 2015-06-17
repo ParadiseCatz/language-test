@@ -1,0 +1,6 @@
+time:0.085
+time-wall:0.310
+max-rss:18580
+csw-voluntary:162
+csw-forced:15
+cg-mem:92248
